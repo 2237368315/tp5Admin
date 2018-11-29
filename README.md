@@ -1,8 +1,3 @@
-TP5Admin 
-===================
-作者QQ:5552123(阿杜)
-===================
-
 TP5Admin V2.0使用ThinkPHP5.10核心版框架开发.
 其主要目的是为了提高开发效率.需要开发什么功能.后台直接添加菜单.程序里直接写控制器!
 > 首次使用导入数据库,后台账号admin,密码admin
@@ -63,11 +58,4 @@ window环境 LAMP 配置
 <virtualhost>
 
 3 重启apache 即可 运行tp5admin.com/admin 即可
-~~~
-
-
-## 参与开发
-注册并登录 Github 帐号， fork 本项目并进行改动。
-
-更多细节参阅 https://github.com/duzhenxun/TP5Admin
 
